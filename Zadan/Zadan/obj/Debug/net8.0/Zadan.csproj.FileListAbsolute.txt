@@ -1,0 +1,14 @@
+C:\Users\belos\source\repos\Zadan\Zadan\bin\Debug\net8.0\Zadan.exe
+C:\Users\belos\source\repos\Zadan\Zadan\bin\Debug\net8.0\Zadan.deps.json
+C:\Users\belos\source\repos\Zadan\Zadan\bin\Debug\net8.0\Zadan.runtimeconfig.json
+C:\Users\belos\source\repos\Zadan\Zadan\bin\Debug\net8.0\Zadan.dll
+C:\Users\belos\source\repos\Zadan\Zadan\bin\Debug\net8.0\Zadan.pdb
+C:\Users\belos\source\repos\Zadan\Zadan\obj\Debug\net8.0\Zadan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belos\source\repos\Zadan\Zadan\obj\Debug\net8.0\Zadan.AssemblyInfoInputs.cache
+C:\Users\belos\source\repos\Zadan\Zadan\obj\Debug\net8.0\Zadan.AssemblyInfo.cs
+C:\Users\belos\source\repos\Zadan\Zadan\obj\Debug\net8.0\Zadan.csproj.CoreCompileInputs.cache
+C:\Users\belos\source\repos\Zadan\Zadan\obj\Debug\net8.0\Zadan.dll
+C:\Users\belos\source\repos\Zadan\Zadan\obj\Debug\net8.0\refint\Zadan.dll
+C:\Users\belos\source\repos\Zadan\Zadan\obj\Debug\net8.0\Zadan.pdb
+C:\Users\belos\source\repos\Zadan\Zadan\obj\Debug\net8.0\Zadan.genruntimeconfig.cache
+C:\Users\belos\source\repos\Zadan\Zadan\obj\Debug\net8.0\ref\Zadan.dll
